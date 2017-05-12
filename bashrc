@@ -1,0 +1,1 @@
+alias top3="du -s * | sort -nr | head -n 3"
